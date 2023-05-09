@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF7B89&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF7B89&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7B89&size=35&center=true&vCenter=true&width=1000&lines=Oiii!!+Eu+sou+a+Emilly+Back;)](https://git.io/typing-svg)
 
@@ -15,7 +15,7 @@
 </div>
 	
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF7B89&height=120&section=footer"/>	
-
+ -->
 ##
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
