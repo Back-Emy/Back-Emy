@@ -1,6 +1,13 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF7B89&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF7B89&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7B89&size=35&center=true&vCenter=true&width=1000&lines=Oiii!!+Eu+sou+a+Emilly+Back;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7B89&size=35&center=true&vCenter=true&width=1000&lines=Oiii!!+Eu+sou+a+Emilly+Back+👋;)](https://git.io/typing-svg)
+
+<br>
+<div align="center"> 
+	Cursando Ensino Médio-Senai - Técnico Desenvolvimento de Sistemas - Estudando JavaScript, HTML e CSS 
+</div>
+<br>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Back-Emy&show_icons=true&count_private=true&hide_border=true&title_color=FF7B89&icon_color=FF7B89&text_color=8A5082&bg_color=0d1117" alt="Emilly Back github stats" /> 
@@ -17,7 +24,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF7B89&height=120&section=footer"/>	
  -->
 ##
-<!-- <div align="center">
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Back-Emy}/count.svg" /></p> 
 <br>
